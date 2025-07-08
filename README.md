@@ -1,4 +1,4 @@
-![logo](https://github.com/Priyanshupriya686/Priyanshupriya686/blob/main/Github%20Banner.png)
+![logo](https://github.com/Ankit-03G/Ankit-03G/blob/main/BANNER.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gupta</h1>
 <h3 align="center">A passionate Data Science and ML learner</h3>
 
